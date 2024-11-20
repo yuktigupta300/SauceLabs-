@@ -1,2 +1,2 @@
 # SauceLabs-
-Selenium Project for demonstrating the web app testing of saucelabs
+Web App Testing of saucelabs.
